@@ -1,0 +1,19 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+    margin-top: 100px;
+    font-family: Arial;
+}
+
+img {
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 8px;
+    width: 200px;
+}
+
+button {
+    padding: 8px 20px;
+}
